@@ -1,0 +1,35 @@
+URL: https://mp.weixin.qq.com/s/UadEaUQ-zPUTCc_mWIiChQ
+TITLE: 正本清源之“排异反应”
+
+伤寒论背后的核心原理之二：排异反应人体不是靠“压症状”活着，是靠“排垃圾”活着
+
+上一篇，我介绍了感冒到底是怎么回事，感冒治不好为什么孩子身体永远好不了的原理，也顺带讲了伤寒论方剂背后的原理之一：伤寒论的方剂都是为了打通某个循环障碍而设立的。
+
+今天，我们就继续谈一谈，伤寒论背后的原理之二：
+
+排异反应！！！
+
+var first_sceen__time = (+new Date());
+if ("" == 1 && document.getElementById('js_content')) {
+document.getElementById('js_content').addEventListener("selectstart",function(e){ e.preventDefault(); });
+}
+
+if ("1" == 1) {
+document.addEventListener("keydown",function(e){
+if ((e.metaKey || e.ctrlKey) && (e.key === 'c' || e.key === 'C' || e.key === 'x' || e.key === 'X' || e.key === 'a' || e.key === 'A')) {
+if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') { return; }
+e.preventDefault();
+}
+});
+document.addEventListener("copy",function(e){
+var sel = window.getSelection();
+var content = document.getElementById('js_content');
+if (sel && sel.rangeCount > 0 && content && content.contains(sel.getRangeAt(0).commonAncestorContainer)) {
+e.preventDefault();
+}
+});
+}
+
+预览时标签不可点
+
+<div
